@@ -1,4 +1,4 @@
-readme_content = """
+ """
 # Binance NFT Marketplace
 
 ## Overview
