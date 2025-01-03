@@ -1,5 +1,3 @@
-# Adding a detailed README.md with placeholders for images
-
 readme_content = """
 # Binance NFT Marketplace
 
