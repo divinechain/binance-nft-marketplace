@@ -14,15 +14,6 @@ The Binance NFT Marketplace is a decentralized platform built on Binance Smart C
 
 ---
 
-## Screenshots
-### Homepage
-![Homepage](./screenshots/homepage.png)
-
-### Mint NFT Page
-![Mint NFT](./screenshots/mint-nft.png)
-
----
-
 ## Prerequisites
 Before getting started, ensure you have:
 - **Node.js**: Install from [Node.js Official Site](https://nodejs.org/).
